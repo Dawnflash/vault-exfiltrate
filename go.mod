@@ -1,6 +1,6 @@
-module github.com/slingamn/vault-exfiltrate
+module github.com/Dawnflash/vault-exfiltrate
 
-go 1.16
+go 1.18
 
 require (
 	github.com/hashicorp/errwrap v1.1.0
